@@ -129,23 +129,13 @@ The final section provides actionable insights such as:
 
 ---
 
-## 👤 Author
+## 👤 Author: Ashafa Oladehinde
 
 Built as a step-by-step learning project for Marketing Analytics using Python.
 
 ---
 
-**Feel free to customize this README with your actual results, plots, and findings!**
+
 
 ```
 
-**File Created Successfully!** 🎉
-
-You can now view or download the `README.md` file. 
-
-Would you like me to:
-- Generate a full Jupyter Notebook (.ipynb) file with all the code?
-- Create a `requirements.txt` file?
-- Add sample output images or results section? 
-
-Just let me know!
